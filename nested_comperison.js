@@ -1,6 +1,7 @@
 var rice=40;
 var chicken=100;
 var money =200;
+
 var wellpacked=true;
 if (rice<money){
     if(wellpacked==false)
