@@ -8,4 +8,4 @@ function leapyear(year){
     }
 }
 var getleapyear = leapyear(2023);
-console.log(getleapyear);
+console.log(getleapyear)
