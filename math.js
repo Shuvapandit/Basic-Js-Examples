@@ -1,4 +1,4 @@
-
+/*
 //absolute value
 var x=-6;
 let output=Math.abs(x);
@@ -18,6 +18,13 @@ console.log(output);
     console.log(oout)
      
  }
+ */
+ //calculate max value 
+ let a=30;
+ let b=20;
+ let c=100;
+ let outtput=Math.max(a,b,c)
+ console.log("Max value is:", outtput)
  
 
  
