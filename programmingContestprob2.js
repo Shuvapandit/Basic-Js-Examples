@@ -24,3 +24,8 @@ function pandaCost(singara,sumucha,jilipi){
   
   } 
   
+//input how many singara,sumucha,jilipi do you have
+let output=pandaCost(2,2,3);
+console.log( output);  
+
+  
